@@ -1,0 +1,7 @@
+node_modules/
+.git-data/
+.env
+data/db.json
+.DS_Store
+output/
+work/*.png
